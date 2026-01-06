@@ -1,1 +1,1 @@
-# LearningBash
+# This is to learn not only Linux commands, but TMUX, NEOVIM whilst using python and bash as a programming language
